@@ -5,6 +5,8 @@ Java implementation of Dirichlet Process Mixture Model. The project contains two
 
 For more information concerning the Machine Learning model check out:
 
+http://blog.datumbox.com/clustering-with-dirichlet-process-mixture-model-in-java/
+
 http://blog.datumbox.com/overview-of-cluster-analysis-and-dirichlet-process-mixture-models/
 
 http://blog.datumbox.com/finite-mixture-model-based-on-dirichlet-distribution/
